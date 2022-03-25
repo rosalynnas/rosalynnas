@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I’m a Quebec based developer and applied maths major. I develop web applications in Rails on Rails and create online presences for small businesses. From collaborating on unique design concepts to using OOD principles to transform ideas into code, I work on all aspects of development projects. 
 
-I’m currently working on a project called SYNA, a 3D spatial notetaking app that attempts to make note taking less linear and more in line with natural thought processes. Checkout the [full description in it's repo](https://github.com/rosalynnas/syna-prime). I'm also working a concept store called KATO. The intent behind KATO is to curate a collection pre-loved or sustainable clothing and homewares from brands with sustainable visions, strong female leadership, or dedication to creating products that will that will last for generations to come. 
+I’m currently working on a project called SYNA, a 3D spatial notetaking app that attempts to make note taking less linear and more in line with natural thought processes. Checkout the [full description here](https://github.com/rosalynnas/syna-prime). I'm also working a concept store called KATO. The intent behind KATO is to curate a collection pre-loved or sustainable clothing and homewares from brands with sustainable visions, strong female leadership, or dedication to creating products that will that will last for generations to come. 
 
 If you want to see some of my past projects, checkout my [portfolio](www.rosalynnas.com)!
 
-📫 How to reach me: hello@rosalynnas.com
+📫 Reach me at hello@rosalynnas.com.
