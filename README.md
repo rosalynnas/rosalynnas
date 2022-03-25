@@ -1,4 +1,4 @@
-### Hi! I'm Rosalynn 👋
+### Hi! I'm Rosalynn.
 
 <!--
 **rosalynnas/rosalynnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
