@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Rosalynn 👋
 
 <!--
 **rosalynnas/rosalynnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Rosalynn. I’m a Quebec based developer and applied maths major. I develop web applications in Rails on Rails and create online presences for small businesses. From collaborating on unique design concepts to using OOD principles to transform ideas into code, I work on all aspects of development projects. 
+I’m a Quebec based developer and applied maths major. I develop web applications in Rails on Rails and create online presences for small businesses. From collaborating on unique design concepts to using OOD principles to transform ideas into code, I work on all aspects of development projects. 
 
 I’m currently working on a project called SYNA, a 3D spatial notetaking app that attempts to make note taking less linear and more in line with natural thought processes. Checkout the [full description in it's repo](https://github.com/rosalynnas/syna-prime). I'm also working a concept store called KATO. The intent behind KATO is to curate a collection pre-loved or sustainable clothing and homewares from brands with sustainable visions, strong female leadership, or dedication to creating products that will that will last for generations to come. 
 
