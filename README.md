@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a Quebec based developer and applied maths major. I build web applications in Rails on Rails and create online presences for small businesses. Between collaborating on unique design concepts and using OOD principles to transform ideas into code, I love working on all aspects of a development project.
+I’m a Quebec based developer and applied maths major. I build web applications in Ruby on Rails and create online presences for small businesses. Between collaborating on unique design concepts and using OOD principles to transform ideas into code, I love working on all aspects of a development project.
 
 I’m currently working on a project called SYNA, a 3D spatial notetaking app that attempts to make note taking less linear and more in line with natural thought processes. Checkout the [full description here](https://github.com/rosalynnas/syna-prime). I'm also working a concept store called KATO. The intent behind KATO is to curate a collection pre-loved or sustainable clothing and homewares from brands with sustainable visions, strong female leadership, or dedication to creating products that will that will last for generations to come. 
 
